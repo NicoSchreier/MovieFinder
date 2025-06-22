@@ -1,4 +1,4 @@
-# 🎬 React Movie Search & Favorites App
+# 🎬 Movie Finder Website (React)
 
 Eine kleine Webanwendung zum **Suchen und Favorisieren von Filmen**, erstellt mit **React**.  
 Das Projekt basiert auf dem Tutorial (https://www.youtube.com/watch?v=G6D9cBaLViA) von Tech with Tim – wird aber aktiv von mir **weiterentwickelt und erweitert**.
